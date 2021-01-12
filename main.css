@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: #bafffa;
+}
+img {
+    width: 300px;
+    height: 270px;
+    margin-right: 20px;
+}
+.alice-img {
+    display: flex;
+    justify-content: center;
+}
+.table {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    background-color: #bafffa;
+    text-align: center;
+}
+.ul {
+    display: flex;
+    justify-content: center;
+}
